@@ -1,9 +1,11 @@
 // Step 1
 // Declare 3 variables below.
 // - A string of your name
-let myName = "Maryam";
+const myName = "Maryam";
 // - A Number of your age
+let myAge = 31;
 // - A boolean representing whether you like chocolate
-
+let likeChocolate = true;
 // Step 2
-// Print to the console a string of "Hello <your-name>!"
+// Print to the console string of "Hello <your-name>!"
+console.log(`Hello ${myName}`);
