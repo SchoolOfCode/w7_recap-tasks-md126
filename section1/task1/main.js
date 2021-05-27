@@ -1,6 +1,7 @@
 // Step 1
 // Declare 3 variables below.
 // - A string of your name
+let myName = "Maryam";
 // - A Number of your age
 // - A boolean representing whether you like chocolate
 
